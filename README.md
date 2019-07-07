@@ -54,6 +54,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## API
 
+- [cryptocompare](https://min-api.cryptocompare.com/documentation)
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
 - [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
