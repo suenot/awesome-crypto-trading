@@ -26,6 +26,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [zipline](https://github.com/quantopian/zipline) - #python
 
 ## Trading bot
+- [zenbot](https://github.com/DeviaVir/zenbot)
 - [freqtrade](https://github.com/freqtrade/freqtrade) - #python, #telegram
 - [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - Helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
