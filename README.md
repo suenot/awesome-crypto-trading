@@ -65,6 +65,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 ## Utils
 
 - [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) by [madnight](https://github.com/madnight) – a command-line console util that draws Bitcoin, Ether, Litecoin and many altcoin charts right in the terminal!
+- [Cryptocurrency Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A live dashboard of top cryptocurrencies discussed on Reddit.
 - [node-red-contrib-ccxt](https://github.com/masalinas/node-red-contrib-ccxt) - Node-red integration.
 
 ## Contributing
