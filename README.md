@@ -35,6 +35,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
 - [ccxt-arbitrage](https://github.com/ArthurAnanda/ccxt-arbitrage-v1)
+- [Trading Intelligence API](https://api.signalfuse.co) - Directional crypto signals fusing social sentiment, macro regime, and market structure. #x402 #usdc #base
 
 ## Trading toolkits
 
