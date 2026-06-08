@@ -67,6 +67,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for algorithmic trading bots on Solana. Verify trading agent wallet identity before x402 micropayments to paid market data or execution APIs. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Utils
 
 - [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) by [madnight](https://github.com/madnight) – a command-line console util that draws Bitcoin, Ether, Litecoin and many altcoin charts right in the terminal!
