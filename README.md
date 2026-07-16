@@ -54,6 +54,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## Analytics platforms
 
+- [INDICIA DESK](https://indiciadesk.com/en/) - Measured (not estimated) BTC/ETH whale liquidation map from real Hyperliquid positions, plus an options-based fear & greed index. Free.
 - [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news.
 
 ## API
