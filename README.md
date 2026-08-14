@@ -32,6 +32,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 - [TrendRider](https://trendrider.net) - Multi-timeframe algo trading bot for Bybit with 67.9% win rate, dynamic position sizing, 15+ altcoins. #python, #freqtrade, #bybit
 - [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot + TradingView webhook executor. 70.9% accuracy, 6 exchanges, pump scanner, open source MIT.
+- [n8n-solana-price-alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow, alerts on Telegram when a Solana SPL token price crosses a threshold
 
 
 ## Signals
