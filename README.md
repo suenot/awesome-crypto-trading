@@ -39,6 +39,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
 - [ccxt-arbitrage](https://github.com/ArthurAnanda/ccxt-arbitrage-v1)
+- [Ezath](https://ezath.com) - BTC/ETH/SOL signals with a public SHA-256 hash-chained track record (wins and losses); free risk/reward, liquidation and profit-factor calculators and an AI position-analysis scorer.
 
 ## Trading toolkits
 
