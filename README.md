@@ -57,6 +57,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news.
 - [SnowSignals TrendVane](https://snowsignals.io) - Multi-timeframe market-phase (regime) API: 12 phase states per timeframe, both closed-bar and intra-bar, plus a BTC-derived resolution model (transition probabilities, trend-continuation, MFE/MAE, with sample counts). Phase labels, not trade signals. Free metadata and resolution tools; only live phase reads are metered.
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
 
 ## API
 
