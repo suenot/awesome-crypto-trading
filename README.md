@@ -57,6 +57,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news.
 - [SnowSignals TrendVane](https://snowsignals.io) - Multi-timeframe market-phase (regime) API: 12 phase states per timeframe, both closed-bar and intra-bar, plus a BTC-derived resolution model (transition probabilities, trend-continuation, MFE/MAE, with sample counts). Phase labels, not trade signals. Free metadata and resolution tools; only live phase reads are metered.
+- [TraderSpy](https://traderspy.app/) - Crypto futures research: AI market analysis, smart-money positions of top Binance, Hyperliquid, Bybit and OKX traders, and paper trading, with a free tier.
 
 ## API
 
