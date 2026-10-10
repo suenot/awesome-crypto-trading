@@ -33,6 +33,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 - [TrendRider](https://trendrider.net) - Multi-timeframe algo trading bot for Bybit with 67.9% win rate, dynamic position sizing, 15+ altcoins. #python, #freqtrade, #bybit
 - [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot + TradingView webhook executor. 70.9% accuracy, 6 exchanges, pump scanner, open source MIT.
+- [Nikola](https://github.com/LucasMurr369/nikola-job) - Nikola Utility Engine: lightweight local risk engine for Kraken Pro margin trading. 40/40/20 take-profit ladder (TP1 +1.4%, TP2 +2.8%, 20% trailing runner), two-stage 2.10%/4.40% stop-loss, break-even ratchet, multi-timeframe confluence, 3:1 min R:R. Runs locally — no SaaS fees. #python #kraken-api #ccxt
 
 
 ## Signals
