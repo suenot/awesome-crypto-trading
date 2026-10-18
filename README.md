@@ -26,6 +26,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 ## Trading bot
 - [zenbot](https://github.com/DeviaVir/zenbot)
 - [freqtrade](https://github.com/freqtrade/freqtrade) - #python, #telegram
+- [CryptoBot Pro](https://gribbot-btc-usdc.netlify.app) - Desktop BTC spot grid bot for Windows, Linux and macOS that trades on 7 exchanges. Closed source, paid after a 90-day trial.
 - [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - Helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
 - [Darkbot](https://darkbot.io/) - Cloud crypto trading bots with grid, DCA, a visual strategy designer, backtesting, and paper trading.
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
