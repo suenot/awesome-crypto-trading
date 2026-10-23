@@ -22,6 +22,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [quantopian](https://www.quantopian.com/home) - #python
 - [ccxt](https://github.com/ccxt/ccxt) - #javascript, #python, #php
 - [zipline](https://github.com/quantopian/zipline) - #python
+- [lumibot](https://github.com/Lumiwealth/lumibot) - #python, backtesting and live trading with ccxt exchanges, same strategy code in both.
 
 ## Trading bot
 - [zenbot](https://github.com/DeviaVir/zenbot)
