@@ -75,6 +75,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 - [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) by [madnight](https://github.com/madnight) – a command-line console util that draws Bitcoin, Ether, Litecoin and many altcoin charts right in the terminal!
 - [Cryptocurrency Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A live dashboard of top cryptocurrencies discussed on Reddit.
+- [Fear & Greed Index Bot](https://top.gg/bot/1125794469829169253) - Free Discord bot that shows the Crypto Fear & Greed Index in the server member list, with slash commands for the daily value and recent history.
 - [node-red-contrib-ccxt](https://github.com/masalinas/node-red-contrib-ccxt) - Node-red integration.
 
 ## Contributing
