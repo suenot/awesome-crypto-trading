@@ -52,6 +52,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 - [Profitmaker](https://github.com/suenot/profitmaker) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, trades, my orders, my trades.
 - [ccxt-trading-cp](https://github.com/michnovka/ccxt-trading-cp) - Trading terminal in console: plot OHLCV, find arbitrage signals, buy/sell, show balances.
 - [Auto-Trade-Crypto-Bot](https://github.com/dev4Fun/Auto-Trade-Crypto-Bot) - Crypto trading #bot in #python with #telegram.
+- [Melbo](https://melbo.io) - Prediction markets for real-world events: a web app to trade Yes or No shares, where a share's price shows the market's probability. Built on Polygon.
 
 ## Analytics platforms
 
