@@ -55,6 +55,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## Analytics platforms
 
+- [CostDepth](https://www.costdepth.io/) - Exchange fee and trading cost calculator that adds live order-book spread and slippage to the official VIP 0 fee for 17 exchanges, spot and futures.
 - [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news.
 - [SnowSignals TrendVane](https://snowsignals.io) - Multi-timeframe market-phase (regime) API: 12 phase states per timeframe, both closed-bar and intra-bar, plus a BTC-derived resolution model (transition probabilities, trend-continuation, MFE/MAE, with sample counts). Phase labels, not trade signals. Free metadata and resolution tools; only live phase reads are metered.
 
