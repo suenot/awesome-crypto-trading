@@ -55,6 +55,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## Analytics platforms
 
+- [RektCalc](https://rektcalc.com) - Free web app for crypto liquidation price, position sizing, PnL and funding-rate calculations across major exchanges, with documented formulas on the site's Learn hub.
 - [Sharpe](https://www.sharpe.ai) - Crypto market intelligence for derivatives positioning, arbitrage opportunities, narratives, and news.
 - [SnowSignals TrendVane](https://snowsignals.io) - Multi-timeframe market-phase (regime) API: 12 phase states per timeframe, both closed-bar and intra-bar, plus a BTC-derived resolution model (transition probabilities, trend-continuation, MFE/MAE, with sample counts). Phase labels, not trade signals. Free metadata and resolution tools; only live phase reads are metered.
 
