@@ -69,6 +69,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## AI
 
+- [FlowFeed](https://flowfeed.cc) - Real-time crypto, forex and macro news, economic calendar and central bank releases for AI agents via a remote MCP server (paid).
 - [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
 
 ## Utils
